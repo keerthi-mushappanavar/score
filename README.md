@@ -1,0 +1,2 @@
+# score
+average calculate
